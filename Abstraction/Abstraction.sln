@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance.csproj", "{0987C321-2610-410D-9EBA-ECD9A2F9BEFC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Abstraction.csproj", "{70159F6B-111C-49B8-80B4-5290D75B8D48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0987C321-2610-410D-9EBA-ECD9A2F9BEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0987C321-2610-410D-9EBA-ECD9A2F9BEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0987C321-2610-410D-9EBA-ECD9A2F9BEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0987C321-2610-410D-9EBA-ECD9A2F9BEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70159F6B-111C-49B8-80B4-5290D75B8D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70159F6B-111C-49B8-80B4-5290D75B8D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70159F6B-111C-49B8-80B4-5290D75B8D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70159F6B-111C-49B8-80B4-5290D75B8D48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AFA0C7F0-9394-4806-B598-528D30E25609}
+		SolutionGuid = {D6011901-B896-4A37-AA06-9341B67F43D8}
 	EndGlobalSection
 EndGlobal
